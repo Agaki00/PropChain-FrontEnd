@@ -68,8 +68,6 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -115,7 +113,6 @@ public
 .pnp.*
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -175,7 +172,6 @@ tmp/
 temp/
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 *.suo
@@ -200,3 +196,7 @@ AGENTS.md
 playwright-report/
 test-results/
 blob-report/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
