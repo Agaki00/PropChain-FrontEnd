@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/gallery-issues-1260-1263",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/gallery-issues-1260-1263": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/gallery-issues-1260-1263",
+    "origin"
+  ]
+}
